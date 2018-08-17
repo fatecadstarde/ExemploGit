@@ -8,7 +8,6 @@ public class SoController {
 	
 	public String os() {
 		return System.getProperty("os.name");
-	}
-	 
+	} 
 }
 
